@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/images1.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Kolkata, west bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Hooghly, west bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Delhi, Delhi",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Lucknow, Uttar Pradesh",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Chennai, Tamil Nadu",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Mumbai, Maharashtra",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "xyz, west bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "xyz, west bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "xyz, west bengal",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/images1.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Mumbai, Maharashtra",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "ptype": "A",
+    "pName": "Arunava",
+    "Logo": "/images/Linear.jpg",
+    "pnone": "1234567890",
+    "email": "Arunava@gmail.com",
+    "address": "Mumbai, Maharashtra",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "pincode": "700001",
+    "inventory": [
+      {
+        "sname": "D-1",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-2",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "sname": "D-3",
+        "stype": "A",
+        "capacity": "2",
+        "amenities": "1",
+        "status": "Active",
+        "notes": ""
+      }
+    ]
+  }
+]
